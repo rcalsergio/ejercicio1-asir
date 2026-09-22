@@ -1,0 +1,9 @@
+linea 1: html mal escrito
+linea 30: faltaba cerrar el <p>
+linea 29: estaba cerrado h2 y era h1
+linea 20: no estaba cerrado el <li>
+linea 4: faltaba cerrar con >
+linea 14: faltaba cerrar el <div>
+linea 15: faltaba el caracter de cierre ">"
+linea 6: title está cerado con <title> en vez de </title>
+linea 50: hay una etiqueta de cierre </nav> que no cierra nada
