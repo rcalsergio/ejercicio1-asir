@@ -1,0 +1,13 @@
+linea un no pone html(le faltaba la l final)
+linea 2 es lang no lan
+linea 4 el meta no estaba cerrado
+linea 6 el segundo  title hay que cerrarlo
+linea 19 li no cerrado
+linea 15 img no cerrado
+linea 28 el h1 estaba cerrrado como h2
+linea 29 el p no estaba cerrado
+linea 45 el  segundo option no estaba cerrado 
+linea 42 falta el nav para que concuarde con el nav de la linea 49
+linea 49 el nav hay q intercambiarlo por el div
+linea 98 hay que cerrar el p
+linea 101 no habia body, hay que cerrarlo
