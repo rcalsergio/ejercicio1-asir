@@ -1,0 +1,14 @@
+linea1: el cierre esta mal
+linea2: la especificación del idioma esta mal
+linea3: la etiqueta esta sin cerrar
+linea6: no hay etiqueta de cierre
+linea15: la etiqueta esta sin cerrar
+linea19: una de las etiquetas esta sin cerrar
+linea28: la etiqueta de cierre es distinta a la de apertura
+linea29: una de las etiquetas esta sin cerrar
+linea35: el orden de las etiquetas de cierre es incorrecto
+linea45: no hay etiqueta de cierre
+linea48: hay una etiqueta de cierre sin una de apertura
+linea88-89: las etiquetas de ambas lineas estan al reves
+linea91: hay una etiqueta de más y otra esta mal
+linea96: no hay etiqueta de cierre y al &copy& le falta un caracter
