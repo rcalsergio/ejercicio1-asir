@@ -1,22 +1,21 @@
-<!DOCTYPE htm>
-<html lan="es">
+<!DOCTYPE html>
+<html lang="es">
 <head>
-    <meta charset="UTF-8"
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tienda Online de Zapatillas<title>
+    <title>Tienda Online de Zapatillas</title>
     <link rel="stylesheet" href="estilos.css">
-</link>
 </head>
 
 <body>
 
     <header>
         <div class="logo">
-            <img src="logo.png" alt="Logo de la tienda"
+            <img src="logo.png" alt="Logo de la tienda">
         </div>
         <nav>
             <ul>
-                <li><a href=index.html>Inicio</a>
+                <li><a href="index.html">Inicio</a></li>
                 <li><a href="productos.html">Productos</a></li>
                 <li><a href="contacto.html">Contacto</a></li>
             </ul>
@@ -25,26 +24,27 @@
 
     <main>
         <section class="bienvenida">
-            <h1>Bienvenido a nuestra tienda</h2>
-            <p>Aquí encontrarás las mejores zapatillas del mercado.
+            <h1>Bienvenido a nuestra tienda</h1>
+            <p>Aquí encontrarás las mejores zapatillas del mercado.</p>
         </section>
 
         <section class="destacados">
             <article>
                 <h2>Producto destacado</h2>
-                <p>Modelo <b>Air Runner 2000</p></b>
+                <p>Modelo <b>Air Runner 2000</b></p>
                 <p>Disponible en varias tallas y colores.</p>
             </article>
         </section>
 
         <section class="productos">
-            <div class="menu">
-                <p>Filtrar por categoría:</p>
-                <select>
-                    <option value="running">Running</option>
-                    <option value="casual">Casual<option>
-                </select>
-            </div>
+            <nav>
+                <div class="menu">
+                    <p>Filtrar por categoría:</p>
+                    <select>
+                        <option value="running">Running</option>
+                        <option value="casual">Casual</option>
+                    </select>
+                </div>
             </nav>
 
             <table>
@@ -55,8 +55,10 @@
                     </tr>
                 </thead>
                 <tbody>
-                    <td>Air Runner 2000</td>
-                    <td>79.99€</td>
+                    <tr>
+                        <td>Air Runner 2000</td>
+                        <td>79.99€</td>
+                    </tr>
                     <tr>
                         <td>Street Comfort</td>
                         <td>59.99€</td>
@@ -67,12 +69,12 @@
 
         <section class="formulario">
             <h2>Contacta con nosotros</h2>
-            <form action="enviar.php" method=post>
+            <form action="enviar.php" method="post">
                 <label for="nombre">Nombre:</label>
                 <input type="text" id="nombre" name="nombre">
 
                 <label for="email">Correo:</label>
-                <input type="text" type="email" id="email" name="email">
+                <input type="email" id="email" name="email">
 
                 <label for="mensaje">Mensaje:</label>
                 <textarea id="mensaje" name="mensaje"></textarea>
@@ -81,20 +83,20 @@
             </form>
         </section>
 
-        <section class=novedades>
+        <section class="novedades">
             <article>
                 <h2>Novedades de esta temporada</h2>
                 <p>Nuevos modelos disponibles cada mes.</p>
-            </section>
-        </article>
+            </article>
+        </section>
 
-        <hr></hr>
+        <hr>
 
     </main>
 
     <footer>
-        <p>&copy; 2026 Tienda de Zapatillas. Todos los derechos reservados.
-        <P>Síguenos en nuestras redes sociales</p>
+        <p>&copy; 2026 Tienda de Zapatillas. Todos los derechos reservados.</p>
+        <p>Síguenos en nuestras redes sociales</p>
     </footer>
-
+</body>
 </html>
