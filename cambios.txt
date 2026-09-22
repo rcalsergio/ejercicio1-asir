@@ -1,0 +1,25 @@
+Línea 1: Falta la L en la etiqueta "html"
+
+Línea 2: Atributo de idioma mal escrito (lan="es" en lugar de lang="es").
+
+Línea 4: Falta el carácter de cierre > en la etiqueta <meta charset="UTF-8".
+
+Línea 6: La etiqueta de cierre del título está mal escrita (<title> en vez de </title>).
+
+Línea 8: La etiqueta <link> no debe llevar etiqueta de cierre </link>.
+
+Línea 14: Falta cerrar la etiqueta <img> con > (o />).
+
+Línea 25: La etiqueta se abre con <h1> pero intenta cerrarse con </h2>.
+
+Línea 26: Falta la etiqueta de cierre </p> al final de la frase.
+
+Línea 32: Las etiquetas de cierre </p> y </b> están invertidas en su orden.
+
+Línea 42: Hay una etiqueta </nav> de cierre que no corresponde a ningún elemento abierto.
+
+Línea 51: Faltan las etiquetas de apertura <tr> y cierre </tr> de la primera fila de datos del <tbody>.
+
+Línea 62: Hay un atributo duplicado (type="text" type="email").
+
+Línea 80: La etiqueta <hr> no debe llevar </hr>
