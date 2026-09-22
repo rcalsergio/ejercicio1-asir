@@ -1,0 +1,12 @@
+En la línea 1 Falta la letra l en el "html"
+En la línea 2 falta una g en "lang"
+En la línea 4 falta el cierre <meta charset="UTF-8">
+En la línea 6 falta una / en el segundo "tittle"
+En la línea 15 falta un cierre :  <img src="logo.png" alt="Logo de la tienda">
+En la línea 28 no coinciden los <h1>
+En la línea 29 falta un <p> de cierre
+En la línea 45 falta una / en el último </option>
+En la línea 48 hay que cambiar el </nav> por el </div>
+En la línea 75 el type aparece 2 veces por lo que hay que quitar 1
+En la línea 84 novedades tiene que ir entre"" por el class
+En la línea 8 el </link> es innecesaria
