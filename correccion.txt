@@ -1,0 +1,46 @@
+Linea 1: <!DOCTYPE html>
+
+Linea 2: <html lang="es">
+
+Linea 4: <meta charset="UTF-8">
+
+Linea 6: <title>Tienda Online de Zapatillas</title>
+
+Linea 7: <link rel="stylesheet" href="estilos.css">
+
+Linea 15: <img src="logo.png" alt="Logo de la tienda">
+
+Linea 19: <li><a href="index.html">Inicio</a></li>
+
+Linea 28: <h1>Bienvenido a nuestra tienda</h1>
+
+Linea 29: <p>Aquí encontrarás las mejores zapatillas del mercado.</p>
+
+Linea 35: <p>Modelo <strong>Air Runner 2000</strong></p>
+
+Linea 45: <option value="casual">Casual</option>
+
+Linea 48: El </nav> no deberia de existir
+ 
+Linea 58: <tr>
+    <td>Air Runner 2000</td>
+    <td>79.99€</td>
+</tr>
+
+Linea 70: <form action="enviar.php" method="post">
+
+Linea 75: <input type="email" id="email" name="email">
+
+Linea 84: <section class="novedades">
+
+Linea 88: </article>
+        </section>
+
+Linea 91: <hr>
+
+Linea 96: <p>&copy; 2026 Tienda de Zapatillas. Todos los derechos reservados.</p>
+
+Linea 97: <p>Síguenos en nuestras redes sociales</p>
+
+Linea 99: </body>
+          </html>
